@@ -1,0 +1,29 @@
+{
+  "name": "Talk_coleo",
+  "homepage": "https://steveviss.github.io/Talk_coleo",
+  "authors": [
+    "Steve Vissault <s.vissault@yahoo.fr>"
+  ],
+  "description": "Présentation du Système d'information sur la biodiversité: Coléo",
+  "main": "index",
+  "keywords": [
+    "Biodiversity",
+    "Ecological Synthesis",
+    "API",
+    "Database"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1",
+    "remark": "^0.14.0"
+  }
+}
